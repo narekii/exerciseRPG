@@ -24,3 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "rpg-tracker"
 include(":app")
+include(":tracker")
