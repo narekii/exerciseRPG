@@ -1,0 +1,23 @@
+# Unity
+rpg-unity/[Ll]ibrary/
+rpg-unity/[Tt]emp/
+rpg-unity/[Oo]bj/
+rpg-unity/[Bb]uilds/
+rpg-unity/[Ll]ogs/
+rpg-unity/[Uu]ser[Ss]ettings/
+rpg-unity/.vs/
+rpg-unity/.idea/
+rpg-unity/*.csproj
+rpg-unity/*.sln
+rpg-unity/*.slnx
+
+# Android
+rpg-tracker/.gradle/
+rpg-tracker/**/build/
+rpg-tracker/local.properties
+rpg-tracker/.idea/
+*.apk
+*.aab
+
+# Rider
+.idea/
